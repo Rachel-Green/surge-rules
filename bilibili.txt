@@ -1,6 +1,6 @@
-bilibili.com
-biliapi.com
-biliapi.net
-biligame.com
-biligame.net
-bilivideo.com
+.bilibili.com
+.biliapi.com
+.biliapi.net
+.biligame.com
+.biligame.net
+.bilivideo.com
