@@ -1,6 +1,6 @@
-.bilibili.com
-.biliapi.com
-.biliapi.net
-.biligame.com
-.biligame.net
-.bilivideo.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
