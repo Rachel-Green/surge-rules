@@ -42,9 +42,9 @@ www-cdn.icloud.com.akadns.net
 .myicloud.net
 .mylcloud.net
 .wwwicloud.com
-.apple-icloud.cn
-.appleicloud.cn
-.icloud-apple.cn
-.icloud.com.cn
-.icloud.net.cn
-.icloudapple.cn
+#.apple-icloud.cn
+#.appleicloud.cn
+#.icloud-apple.cn
+#.icloud.com.cn
+#.icloud.net.cn
+#.icloudapple.cn
